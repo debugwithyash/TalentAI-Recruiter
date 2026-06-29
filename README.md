@@ -5,9 +5,13 @@
 TalentAI Recruiter is an AI-powered recruitment platform that helps recruiters identify the best candidates using **semantic understanding** instead of traditional keyword matching. It analyzes job descriptions, evaluates candidate profiles, and generates an explainable ranking based on multiple factors.
 
 ---
-##LIVE DEMO
-https://debugwithyash.github.io/TalentAI-Recruiter/
+## 🚀 Live Demo
 
+👉 https://debugwithyash.github.io/TalentAI-Recruiter/
+
+## 📂 GitHub Repository
+
+👉 https://github.com/debugwithyash/TalentAI-Recruiter
 ---
 
 ## 📌 Problem Statement
